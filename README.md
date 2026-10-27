@@ -23,7 +23,7 @@ Thermal infrared imaging offers the advantage of all-weather capability, enablin
 
 <p align="center">
   <a href="">
-    <img src="assets/intro.png" alt="Relit" width="95%">
+    <img src="intro.pdf" alt="Relit" width="95%">
   </a>
 </p>
 <p align="center">
