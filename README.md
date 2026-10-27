@@ -30,3 +30,19 @@ Thermal infrared imaging offers the advantage of all-weather capability, enablin
   Our framework integrates thermodynamic principles with 4D Gaussian Splatting for physically-consistent thermal emulation under clear-sky conditions. By inputting scene geometry and environmental factors (e.g., solar radiation, wind speed), it simulates 4D spatiotemporal thermal fields and renders accurate temperature maps from arbitrary views. Notably, ThermoGS decouples intrinsic material attributes to ensure adherence to thermodynamic laws.
 </p>
 <br>
+
+## Dataset
+Download the [data](https://drive.google.com/file/) and put it to your dataset folder.
+
+## Citation
+If you find this repository useful in your project, please cite the following work:
+```
+@inproceedings{yang2026thermogs,
+  title={ThermoGS: Decoupling Physical Surface Attributes for Spatio-Temporal Thermal Field Emulation via 4D Gaussian Splatting},
+  author={Yang, Kun and Liu, Yuxiang and Cui, Zeyu and Yan, Shen and Zhang, Maojun and Liu, Yu and Wang, Xue and Wang, Qing},
+  booktitle={European Conference on Computer Vision},
+  pages={302--319},
+  year={2026},
+  organization={Springer}
+}
+```
